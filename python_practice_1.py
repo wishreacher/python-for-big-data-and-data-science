@@ -1,0 +1,1 @@
+print("Volodymyr Fedorych, SE-2025")
